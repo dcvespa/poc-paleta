@@ -1,0 +1,24 @@
+{
+  "name": "poc-paleta",
+  "version": "1.0.0",
+  "description": "just a poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcvespa/poc-paleta.git"
+  },
+  "keywords": [
+    "poc",
+    "paleta",
+    "components"
+  ],
+  "author": "Dafiti Front End",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcvespa/poc-paleta/issues"
+  },
+  "homepage": "https://github.com/dcvespa/poc-paleta#readme"
+}
